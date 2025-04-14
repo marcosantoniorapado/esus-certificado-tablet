@@ -60,7 +60,7 @@ Aplicativo: e-SUS Território
 https://play.google.com/store/apps/details?id=br.gov.saude.acs&pcampaignid=web_share
 
 
-3. O site deve carregar sem erro de “certificado inválido”.
+3. O site ou aplicativo deve carregar sem erro de “certificado inválido”.
 
 ## ℹ️ Observações
 
