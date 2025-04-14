@@ -23,8 +23,7 @@ Este tutorial mostra como resolver o erro de certificado SSL ao acessar um siste
 
 isrg-root-x1.crt
 
-esus-certificado-tablet/isrg-root-x1.crt
-
+[Download direto do certificado](./isrg-root-x1.crt)
 
 3. Transfira o arquivo para o tablet usando cabo USB, e-mail ou outro meio.
 
