@@ -44,11 +44,15 @@ ISRG Root X1
 
 ## ✅ Etapa 3 – Teste
 
-1. Abra o navegador do tablet.
+1. Abra o navegador do tablet ou o aplicativo e-SUS Território.
 
 2. Acesse o domínio do sistema, por exemplo:
 
 https://esus.seudominio.gov.br
+
+Aplicativo: e-SUS Território
+
+https://play.google.com/store/apps/details?id=br.gov.saude.acs&pcampaignid=web_share
 
 
 3. O site deve carregar sem erro de “certificado inválido”.
