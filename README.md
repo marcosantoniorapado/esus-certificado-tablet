@@ -4,7 +4,8 @@
 
 Este tutorial mostra como resolver o erro de certificado SSL ao acessar um sistema web (como o e-SUS APS) em tablets Android. O problema ocorre quando o dispositivo não reconhece o certificado da autoridade certificadora Let's Encrypt, usada em servidores HTTPS.
 
-esus-certificado-tablet/Esus.jpeg
+
+![Exemplo de instalação](./Esus.jpeg)
 
 
 ## 🔧 Requisitos
