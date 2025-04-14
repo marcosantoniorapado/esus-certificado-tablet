@@ -48,7 +48,7 @@ ISRG Root X1
 
 2. Acesse o domínio do sistema, por exemplo:
 
-https://esus.seudominio.gov.br
+https://esus.seudominio.sp.gov.br
 
 Aplicativo: e-SUS Território
 
