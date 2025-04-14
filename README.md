@@ -1,6 +1,6 @@
 # Esus Certificado Tablet Android
 
-# Tutorial de Instalação do Certificado ISRG Root X1 em Tablets Android
+# 📚 Tutorial de Instalação do Certificado ISRG Root X1 em Tablets Android
 
 Este tutorial mostra como resolver o erro de certificado SSL ao acessar um sistema web (como o e-SUS APS) em tablets Android. O problema ocorre quando o dispositivo não reconhece o certificado da autoridade certificadora Let's Encrypt, usada em servidores HTTPS.
 
@@ -68,6 +68,26 @@ https://play.google.com/store/apps/details?id=br.gov.saude.acs&pcampaignid=web_s
 - A validade do certificado Let's Encrypt geralmente é de 90 dias.  
 - Tablets com Android antigo podem não ter suporte à nova cadeia de certificados da Let's Encrypt, por isso a instalação manual é necessária.  
 - A instalação do certificado como **usuário** é suficiente para resolver o problema em navegadores e aplicativos que respeitam essa configuração.
+
+## 🔔 Aviso no tablet após instalação do certificado
+
+Após a instalação do certificado raiz ISRG Root X1 no tablet, pode aparecer uma mensagem informando que:
+
+> “O dispositivo pode estar sendo monitorado”  
+> ou  
+> “As redes podem ser monitoradas devido à instalação de um certificado de segurança”
+
+Essa mensagem é **normal e esperada** em aparelhos Android sempre que um certificado de autoridade confiável é instalado manualmente pelo usuário.
+
+### O que isso significa?
+
+- O aviso é apenas uma **medida de precaução do sistema Android**.
+- Ele indica que, **tecnicamente**, o tablet agora confia em um novo certificado.
+- Isso **não quer dizer que o tablet está sendo monitorado ou hackeado**.
+- O funcionamento do dispositivo continua normal e seguro.
+
+Esse aviso permanece enquanto o certificado estiver instalado, mas **não afeta o uso de aplicativos, navegação ou segurança real do sistema**.
+
 
 
 
