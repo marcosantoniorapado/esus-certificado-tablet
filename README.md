@@ -22,6 +22,8 @@ esus-certificado-tablet/Esus.jpeg
 
 isrg-root-x1.crt
 
+esus-certificado-tablet/isrg-root-x1.crt
+
 
 3. Transfira o arquivo para o tablet usando cabo USB, e-mail ou outro meio.
 
