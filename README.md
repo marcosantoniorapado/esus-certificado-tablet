@@ -88,5 +88,11 @@ Essa mensagem é **normal e esperada** em aparelhos Android sempre que um certif
 Esse aviso permanece enquanto o certificado estiver instalado, mas **não afeta o uso de aplicativos, navegação ou segurança real do sistema**.
 
 
+---
+
+📄 Este repositório está licenciado sob os termos da [Licença MIT](./LICENSE).
+
+
+
 
 
