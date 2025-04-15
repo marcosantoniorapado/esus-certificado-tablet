@@ -1,4 +1,4 @@
-# Licença MIT (Tradução não oficial)
+# Licença MIT (Tradução) arquivo não oficial
 
 > ⚠️ Esta é uma tradução da licença original em inglês, feita apenas para fins de compreensão.  
 > Em caso de dúvidas, conflitos ou questões legais, a versão original em inglês prevalece.  
